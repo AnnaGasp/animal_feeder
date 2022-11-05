@@ -19,4 +19,3 @@ export class Animal {
       else return `${this.name} the ${this.type} does not like ${food}!`;
     }
   }
-  
